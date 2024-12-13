@@ -1,0 +1,391 @@
+[22-11-2024 09:05:34] : [jegadeeshwar.t] : [INFO] : Application started
+[22-11-2024 09:05:35] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[22-11-2024 09:06:05] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[22-11-2024 09:06:05] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[22-11-2024 09:06:06] : [jegadeeshoff@gmail.com] : [ERRO] : Error while inserting attendanceCannot access a disposed object.
+Object name: 'System.Net.Http.StringContent'.
+[22-11-2024 09:06:49] : [jegadeeshwar.t] : [INFO] : Application started
+[22-11-2024 09:06:49] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[22-11-2024 09:06:55] : [jegadeeshwar.t] : [INFO] : Application closed
+[22-11-2024 09:09:04] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[22-11-2024 09:09:10] : [jegadeeshoff@gmail.com] : [ERRO] : Error while updating attendance
+[22-11-2024 09:09:10] : [jegadeeshwar.t] : [INFO] : Logout Recorder and Attendance Updated
+[22-11-2024 09:09:12] : [jegadeeshoff@gmail.com] : [INFO] : Application closed
+[22-11-2024 09:22:56] : [jegadeeshwar.t] : [INFO] : Application started
+[22-11-2024 09:22:56] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[22-11-2024 09:23:16] : [jegadeeshwar.t] : [WARN] : Login failed: Invalid username or password
+[22-11-2024 09:23:21] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[22-11-2024 09:23:21] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[22-11-2024 09:23:21] : [jegadeeshoff@gmail.com] : [ERRO] : Error while inserting attendanceCannot access a disposed object.
+Object name: 'System.Net.Http.StringContent'.
+[22-11-2024 09:23:37] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[22-11-2024 09:23:43] : [jegadeeshoff@gmail.com] : [ERRO] : Error while updating attendance
+[22-11-2024 09:23:45] : [jegadeeshoff@gmail.com] : [INFO] : Application closed
+[22-11-2024 09:25:33] : [jegadeeshwar.t] : [INFO] : Application started
+[22-11-2024 09:25:33] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[22-11-2024 09:25:50] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[22-11-2024 09:25:50] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[22-11-2024 09:25:50] : [jegadeeshoff@gmail.com] : [ERRO] : Error while inserting attendanceCannot access a disposed object.
+Object name: 'System.Net.Http.StringContent'.
+[22-11-2024 09:25:50] : [jegadeeshwar.t] : [ERRO] : Exception occurs when Get Profile in Dashboard: An invalid request URI was provided. The request URI must either be an absolute URI or BaseAddress must be set.
+[22-11-2024 09:25:52] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[22-11-2024 09:25:54] : [jegadeeshoff@gmail.com] : [ERRO] : Error while updating attendance
+[22-11-2024 09:28:11] : [jegadeeshwar.t] : [INFO] : Application started
+[22-11-2024 09:28:11] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[22-11-2024 09:28:27] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[22-11-2024 09:28:27] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[22-11-2024 09:28:27] : [jegadeeshoff@gmail.com] : [ERRO] : Error while inserting attendanceCannot access a disposed object.
+Object name: 'System.Net.Http.StringContent'.
+[22-11-2024 09:28:27] : [jegadeeshwar.t] : [ERRO] : Exception occurs when Get Profile in Dashboard: Value cannot be null.
+Parameter name: uriString
+[22-11-2024 09:28:30] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[22-11-2024 09:28:34] : [jegadeeshoff@gmail.com] : [ERRO] : Error while updating attendance
+[22-11-2024 09:28:34] : [jegadeeshwar.t] : [INFO] : Logout Recorder and Attendance Updated
+[22-11-2024 09:28:36] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[22-11-2024 09:28:36] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[22-11-2024 09:28:36] : [jegadeeshoff@gmail.com] : [ERRO] : Error while inserting attendanceCannot access a disposed object.
+Object name: 'System.Net.Http.StringContent'.
+[22-11-2024 09:28:36] : [jegadeeshwar.t] : [ERRO] : Exception occurs when Get Profile in Dashboard: Value cannot be null.
+Parameter name: uriString
+[22-11-2024 09:28:43] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[22-11-2024 09:28:46] : [jegadeeshoff@gmail.com] : [ERRO] : Error while updating attendance
+[22-11-2024 09:28:46] : [jegadeeshwar.t] : [INFO] : Logout Recorder and Attendance Updated
+[22-11-2024 09:28:48] : [jegadeeshoff@gmail.com] : [INFO] : Application closed
+[22-11-2024 09:31:07] : [jegadeeshwar.t] : [INFO] : Application started
+[22-11-2024 09:31:07] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[22-11-2024 09:31:24] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[22-11-2024 09:31:24] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[22-11-2024 09:31:24] : [jegadeeshoff@gmail.com] : [ERRO] : Error while inserting attendanceCannot access a disposed object.
+Object name: 'System.Net.Http.StringContent'.
+[22-11-2024 09:31:24] : [jegadeeshwar.t] : [ERRO] : Exception occurs when Get Profile in Dashboard: An invalid request URI was provided. The request URI must either be an absolute URI or BaseAddress must be set.
+[22-11-2024 09:31:27] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[22-11-2024 09:31:32] : [jegadeeshoff@gmail.com] : [ERRO] : Error while updating attendance
+[22-11-2024 09:31:32] : [jegadeeshwar.t] : [INFO] : Logout Recorder and Attendance Updated
+[22-11-2024 09:33:32] : [jegadeeshwar.t] : [INFO] : Application started
+[22-11-2024 09:33:32] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[22-11-2024 09:33:50] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[22-11-2024 09:33:50] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[22-11-2024 09:33:50] : [jegadeeshoff@gmail.com] : [ERRO] : Error while inserting attendanceCannot access a disposed object.
+Object name: 'System.Net.Http.StringContent'.
+[22-11-2024 09:33:50] : [jegadeeshwar.t] : [ERRO] : Exception occurs when Get Profile in Dashboard: An invalid request URI was provided. The request URI must either be an absolute URI or BaseAddress must be set.
+[22-11-2024 09:33:51] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[22-11-2024 09:33:54] : [jegadeeshwar.t] : [INFO] : Logout recorded
+[22-11-2024 09:33:56] : [jegadeeshoff@gmail.com] : [INFO] : Application closed
+[22-11-2024 09:35:07] : [jegadeeshwar.t] : [INFO] : Application started
+[22-11-2024 09:35:10] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[22-11-2024 09:35:26] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[22-11-2024 09:35:26] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[22-11-2024 09:35:26] : [jegadeeshoff@gmail.com] : [ERRO] : Error while inserting attendanceCannot access a disposed object.
+Object name: 'System.Net.Http.StringContent'.
+[22-11-2024 09:35:26] : [jegadeeshwar.t] : [ERRO] : Exception occurs when Get Profile in Dashboard: An invalid request URI was provided. The request URI must either be an absolute URI or BaseAddress must be set.
+[22-11-2024 09:35:27] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[22-11-2024 09:35:34] : [jegadeeshoff@gmail.com] : [INFO] : Attendance opened
+[22-11-2024 09:35:36] : [jegadeeshwar.t] : [INFO] : Logout recorded
+[22-11-2024 09:35:38] : [jegadeeshoff@gmail.com] : [INFO] : Application closed
+[22-11-2024 09:38:14] : [jegadeeshwar.t] : [INFO] : Application started
+[22-11-2024 09:38:14] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[22-11-2024 09:38:30] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[22-11-2024 09:38:30] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[22-11-2024 09:38:30] : [jegadeeshoff@gmail.com] : [ERRO] : Error while inserting attendanceCannot access a disposed object.
+Object name: 'System.Net.Http.StringContent'.
+[22-11-2024 09:38:31] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[22-11-2024 09:38:36] : [jegadeeshoff@gmail.com] : [INFO] : Attendance opened
+[22-11-2024 09:38:38] : [jegadeeshwar.t] : [INFO] : Logout recorded
+[22-11-2024 09:38:40] : [jegadeeshoff@gmail.com] : [INFO] : Application closed
+[22-11-2024 09:46:24] : [jegadeeshwar.t] : [INFO] : Application started
+[22-11-2024 09:46:25] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[22-11-2024 09:46:42] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[22-11-2024 09:46:42] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[22-11-2024 09:46:43] : [jegadeeshoff@gmail.com] : [ERRO] : Error while inserting attendance: Cannot access a disposed object.
+Object name: 'System.Net.Http.StringContent'.
+[22-11-2024 09:46:43] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[22-11-2024 09:46:47] : [jegadeeshoff@gmail.com] : [INFO] : Attendance opened
+[22-11-2024 09:46:49] : [jegadeeshwar.t] : [INFO] : Logout recorded
+[22-11-2024 09:46:51] : [jegadeeshoff@gmail.com] : [INFO] : Application closed
+[22-11-2024 09:47:44] : [jegadeeshwar.t] : [INFO] : Application started
+[22-11-2024 09:47:45] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[22-11-2024 09:48:00] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[22-11-2024 09:48:00] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[22-11-2024 09:48:02] : [jegadeeshoff@gmail.com] : [ERRO] : Error while inserting attendance: Cannot access a disposed object.
+Object name: 'System.Net.Http.StringContent'.
+[22-11-2024 09:48:03] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[22-11-2024 09:48:07] : [jegadeeshwar.t] : [INFO] : Logout recorded
+[22-11-2024 09:48:09] : [jegadeeshoff@gmail.com] : [INFO] : Application closed
+[22-11-2024 09:49:16] : [jegadeeshwar.t] : [INFO] : Application started
+[22-11-2024 09:49:16] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[22-11-2024 09:49:30] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[22-11-2024 09:49:30] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[22-11-2024 09:50:55] : [jegadeeshwar.t] : [INFO] : Application started
+[22-11-2024 09:50:55] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[22-11-2024 09:51:09] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[22-11-2024 09:51:09] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[22-11-2024 09:55:17] : [jegadeeshwar.t] : [INFO] : Application started
+[22-11-2024 09:55:17] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[22-11-2024 09:55:19] : [jegadeeshwar.t] : [INFO] : Application closed
+[22-11-2024 09:55:32] : [jegadeeshwar.t] : [INFO] : Application started
+[22-11-2024 09:55:32] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[22-11-2024 09:55:48] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[22-11-2024 09:55:48] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[22-11-2024 09:55:48] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Inserted
+[22-11-2024 09:55:48] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[22-11-2024 09:55:55] : [jegadeeshwar.t] : [INFO] : Logout recorded
+[22-11-2024 09:55:57] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[22-11-2024 09:55:57] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[22-11-2024 09:55:57] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Inserted
+[22-11-2024 09:55:57] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[22-11-2024 09:55:58] : [jegadeeshoff@gmail.com] : [INFO] : Attendance opened
+[22-11-2024 09:56:03] : [jegadeeshwar.t] : [INFO] : Logout recorded
+[22-11-2024 09:56:05] : [jegadeeshoff@gmail.com] : [INFO] : Application closed
+[22-11-2024 09:58:09] : [jegadeeshwar.t] : [INFO] : Application started
+[22-11-2024 09:58:09] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[22-11-2024 09:58:11] : [jegadeeshwar.t] : [INFO] : Application closed
+[22-11-2024 10:59:45] : [jegadeeshwar.t] : [INFO] : Application started
+[22-11-2024 10:59:46] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[22-11-2024 11:00:10] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[22-11-2024 11:00:10] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[22-11-2024 11:00:10] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Inserted
+[22-11-2024 11:00:10] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[22-11-2024 11:00:15] : [jegadeeshoff@gmail.com] : [INFO] : Profile opened
+[22-11-2024 11:00:19] : [jegadeeshoff@gmail.com] : [INFO] : Profile closed
+[22-11-2024 11:00:19] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[22-11-2024 11:00:23] : [jegadeeshoff@gmail.com] : [INFO] : Attendance opened
+[22-11-2024 11:00:25] : [jegadeeshoff@gmail.com] : [INFO] : Attendance closed
+[22-11-2024 11:00:25] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[22-11-2024 11:00:28] : [jegadeeshwar.t] : [INFO] : Logout recorded
+[22-11-2024 11:00:28] : [jegadeeshwar.t] : [INFO] : Application started
+[22-11-2024 11:00:28] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[22-11-2024 11:00:44] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[22-11-2024 11:00:44] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[22-11-2024 11:00:44] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Inserted
+[22-11-2024 11:00:44] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[22-11-2024 11:00:45] : [jegadeeshoff@gmail.com] : [INFO] : Profile opened
+[22-11-2024 11:00:47] : [jegadeeshwar.t] : [INFO] : Logout recorded
+[22-11-2024 11:00:47] : [jegadeeshwar.t] : [INFO] : Application started
+[22-11-2024 11:00:47] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[22-11-2024 11:01:00] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[22-11-2024 11:01:00] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[22-11-2024 11:01:00] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Inserted
+[22-11-2024 11:01:00] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[22-11-2024 11:01:02] : [jegadeeshoff@gmail.com] : [INFO] : Attendance opened
+[22-11-2024 11:01:04] : [jegadeeshwar.t] : [INFO] : Logout recorded
+[22-11-2024 11:01:04] : [jegadeeshwar.t] : [INFO] : Application started
+[22-11-2024 11:01:04] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[22-11-2024 11:01:06] : [jegadeeshwar.t] : [INFO] : Application exit
+[22-11-2024 11:01:07] : [jegadeeshwar.t] : [INFO] : Application closed
+[22-11-2024 12:22:58] : [jegadeeshwar.t] : [INFO] : Application started
+[22-11-2024 12:22:59] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[22-11-2024 12:23:44] : [jegadeeshwar.t] : [ERRO] : Connection Error: An error occurred while sending the request.
+[22-11-2024 12:23:48] : [jegadeeshwar.t] : [ERRO] : Connection Error: An error occurred while sending the request.
+[22-11-2024 12:23:49] : [jegadeeshwar.t] : [INFO] : Application closed
+[22-11-2024 12:25:46] : [jegadeeshwar.t] : [INFO] : Application started
+[22-11-2024 12:25:46] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[22-11-2024 12:26:08] : [jegadeeshwar.t] : [ERRO] : Connection Error: An error occurred while sending the request.
+[22-11-2024 12:26:10] : [jegadeeshwar.t] : [INFO] : Application closed
+[22-11-2024 12:26:43] : [jegadeeshwar.t] : [INFO] : Application started
+[22-11-2024 12:26:43] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[22-11-2024 12:27:01] : [jegadeeshwar.t] : [ERRO] : Connection Error: An error occurred while sending the request.
+[22-11-2024 12:27:03] : [jegadeeshwar.t] : [INFO] : Application closed
+[22-11-2024 12:31:00] : [jegadeeshwar.t] : [INFO] : Application started
+[22-11-2024 12:31:01] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[22-11-2024 12:31:20] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[22-11-2024 12:31:20] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[22-11-2024 12:31:20] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Inserted
+[22-11-2024 12:31:20] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[22-11-2024 12:31:25] : [jegadeeshwar.t] : [INFO] : Logout recorded
+[22-11-2024 12:31:25] : [jegadeeshwar.t] : [INFO] : Application started
+[22-11-2024 12:31:25] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[22-11-2024 12:31:27] : [jegadeeshwar.t] : [INFO] : Application closed
+[22-11-2024 12:31:45] : [jegadeeshwar.t] : [INFO] : Application started
+[22-11-2024 12:31:45] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[22-11-2024 12:31:48] : [jegadeeshwar.t] : [INFO] : Application closed
+[22-11-2024 12:41:46] : [jegadeeshwar.t] : [INFO] : Application started
+[22-11-2024 12:41:46] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[22-11-2024 12:42:05] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[22-11-2024 12:42:05] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[22-11-2024 12:42:05] : [jegadeeshoff@gmail.com] : [INFO] : Login API: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+  Date: Fri, 22 Nov 2024 07:12:04 GMT
+  Server: Kestrel
+  Content-Type: text/plain; charset=utf-8
+}
+[22-11-2024 12:42:05] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Inserted
+[22-11-2024 12:42:05] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[22-11-2024 12:46:39] : [jegadeeshwar.t] : [INFO] : Application started
+[22-11-2024 12:46:39] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[22-11-2024 12:46:41] : [jegadeeshwar.t] : [INFO] : Application closed
+[22-11-2024 12:48:14] : [jegadeeshwar.t] : [INFO] : Application started
+[22-11-2024 12:48:15] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[22-11-2024 12:48:31] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[22-11-2024 12:48:31] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[22-11-2024 12:48:31] : [jegadeeshoff@gmail.com] : [INFO] : Login API: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+  Date: Fri, 22 Nov 2024 07:18:29 GMT
+  Server: Kestrel
+  Content-Type: text/plain; charset=utf-8
+}
+[22-11-2024 12:48:31] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Inserted
+[22-11-2024 12:48:32] : [jegadeeshoff@gmail.com] : [INFO] : Login API: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+  Date: Fri, 22 Nov 2024 07:18:29 GMT
+  Server: Kestrel
+  Content-Type: text/plain; charset=utf-8
+}
+[22-11-2024 12:48:32] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[22-11-2024 12:48:32] : [jegadeeshoff@gmail.com] : [INFO] : Profile Get API: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+  Date: Fri, 22 Nov 2024 07:18:31 GMT
+  Server: Kestrel
+  Content-Type: application/json; charset=utf-8
+}
+[22-11-2024 12:48:39] : [jegadeeshwar.t] : [INFO] : Logout recorded
+[22-11-2024 12:48:39] : [jegadeeshwar.t] : [INFO] : Attendance Update API: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+  Date: Fri, 22 Nov 2024 07:18:38 GMT
+  Server: Kestrel
+  Content-Type: text/plain; charset=utf-8
+}
+[22-11-2024 12:48:39] : [jegadeeshwar.t] : [INFO] : Application started
+[22-11-2024 12:48:39] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[22-11-2024 12:48:40] : [jegadeeshwar.t] : [INFO] : Application exit
+[22-11-2024 12:48:41] : [jegadeeshwar.t] : [INFO] : Application closed
+[22-11-2024 12:51:45] : [jegadeeshwar.t] : [INFO] : Application started
+[22-11-2024 12:51:45] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[22-11-2024 12:52:35] : [jegadeeshwar.t] : [INFO] : Application closed
+[22-11-2024 12:52:40] : [jegadeeshwar.t] : [INFO] : Application started
+[22-11-2024 12:52:40] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[22-11-2024 12:52:51] : [jegadeeshwar.t] : [ERRO] : SQL Error: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+[22-11-2024 12:52:51] : [jegadeeshwar.t] : [ERRO] : Error occurs in Login (BAL.cs): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+[22-11-2024 12:52:51] : [jegadeeshwar.t] : [ERRO] : Error occurs in Login (BAL.cs): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+[22-11-2024 12:53:12] : [jegadeeshwar.t] : [ERRO] : SQL Error: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+[22-11-2024 12:53:30] : [jegadeeshwar.t] : [WARN] : Login failed: Invalid username or password
+[22-11-2024 12:54:21] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[22-11-2024 12:54:21] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[22-11-2024 12:54:21] : [jegadeeshoff@gmail.com] : [INFO] : Login API Code: OK
+[22-11-2024 12:54:21] : [jegadeeshoff@gmail.com] : [INFO] : Login API Response: OK
+[22-11-2024 12:54:21] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Inserted
+[22-11-2024 12:54:21] : [jegadeeshoff@gmail.com] : [INFO] : Login API: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+  Date: Fri, 22 Nov 2024 07:24:20 GMT
+  Server: Kestrel
+  Content-Type: text/plain; charset=utf-8
+}
+[22-11-2024 12:54:21] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[22-11-2024 12:54:22] : [jegadeeshoff@gmail.com] : [INFO] : Profile Get API: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+  Date: Fri, 22 Nov 2024 07:24:21 GMT
+  Server: Kestrel
+  Content-Type: application/json; charset=utf-8
+}
+[22-11-2024 12:54:25] : [jegadeeshwar.t] : [INFO] : Logout recorded
+[22-11-2024 12:54:25] : [jegadeeshwar.t] : [INFO] : Attendance Update API: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+  Date: Fri, 22 Nov 2024 07:24:24 GMT
+  Server: Kestrel
+  Content-Type: text/plain; charset=utf-8
+}
+[22-11-2024 12:54:25] : [jegadeeshwar.t] : [INFO] : Application started
+[22-11-2024 12:54:25] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[22-11-2024 12:57:04] : [jegadeeshwar.t] : [INFO] : Application closed
+[22-11-2024 12:57:19] : [jegadeeshwar.t] : [INFO] : Application started
+[22-11-2024 12:57:19] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[22-11-2024 12:57:27] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[22-11-2024 12:57:27] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[22-11-2024 12:57:27] : [jegadeeshoff@gmail.com] : [INFO] : Login API Code: 1.1
+[22-11-2024 12:57:27] : [jegadeeshoff@gmail.com] : [INFO] : Login API Response: OK
+[22-11-2024 12:57:27] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Inserted
+[22-11-2024 12:57:27] : [jegadeeshoff@gmail.com] : [INFO] : Login API: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+  Date: Fri, 22 Nov 2024 07:27:26 GMT
+  Server: Kestrel
+  Content-Type: text/plain; charset=utf-8
+}
+[22-11-2024 12:57:27] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[22-11-2024 12:57:28] : [jegadeeshoff@gmail.com] : [INFO] : Profile Get API: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+  Date: Fri, 22 Nov 2024 07:27:27 GMT
+  Server: Kestrel
+  Content-Type: application/json; charset=utf-8
+}
+[22-11-2024 12:58:11] : [jegadeeshwar.t] : [INFO] : Logout recorded
+[22-11-2024 12:58:11] : [jegadeeshwar.t] : [INFO] : Application started
+[22-11-2024 12:58:11] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[22-11-2024 12:58:12] : [jegadeeshwar.t] : [INFO] : Logout Recorder and Attendance Updated
+[22-11-2024 12:58:14] : [jegadeeshwar.t] : [INFO] : Application closed
+[22-11-2024 12:58:30] : [jegadeeshwar.t] : [INFO] : Application started
+[22-11-2024 12:58:30] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[22-11-2024 12:58:52] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[22-11-2024 12:58:52] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[22-11-2024 12:58:52] : [jegadeeshoff@gmail.com] : [INFO] : Login API Code: 1.1
+[22-11-2024 12:58:52] : [jegadeeshoff@gmail.com] : [INFO] : Login API Response: OK
+[22-11-2024 12:58:52] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Inserted
+[22-11-2024 12:58:52] : [jegadeeshoff@gmail.com] : [INFO] : Login API: OK
+[22-11-2024 12:58:52] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[22-11-2024 12:58:53] : [jegadeeshoff@gmail.com] : [INFO] : Profile Get API: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+  Date: Fri, 22 Nov 2024 07:28:51 GMT
+  Server: Kestrel
+  Content-Type: application/json; charset=utf-8
+}
+[22-11-2024 14:00:12] : [jegadeeshwar.t] : [INFO] : Application started
+[22-11-2024 14:00:12] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[22-11-2024 14:00:15] : [jegadeeshwar.t] : [INFO] : Application closed
+[22-11-2024 14:00:22] : [jegadeeshwar.t] : [INFO] : Application started
+[22-11-2024 14:00:22] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[22-11-2024 14:00:47] : [jegadeeshwar.t] : [ERRO] : Connection Error: An error occurred while sending the request.
+[22-11-2024 14:00:51] : [jegadeeshwar.t] : [INFO] : Application closed
+[22-11-2024 14:05:30] : [jegadeeshwar.t] : [INFO] : Application started
+[22-11-2024 14:05:30] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[22-11-2024 14:05:46] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[22-11-2024 14:05:46] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[22-11-2024 14:05:46] : [jegadeeshoff@gmail.com] : [INFO] : Login API: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+  Date: Fri, 22 Nov 2024 08:35:44 GMT
+  Server: Kestrel
+  Content-Type: text/plain; charset=utf-8
+}
+[22-11-2024 14:05:46] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Inserted
+[22-11-2024 14:05:46] : [jegadeeshoff@gmail.com] : [INFO] : Insert Attendance API: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+  Date: Fri, 22 Nov 2024 08:35:44 GMT
+  Server: Kestrel
+  Content-Type: text/plain; charset=utf-8
+}
+[22-11-2024 14:05:47] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[22-11-2024 14:05:47] : [jegadeeshoff@gmail.com] : [INFO] : Profile Get API: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+  Date: Fri, 22 Nov 2024 08:35:46 GMT
+  Server: Kestrel
+  Content-Type: application/json; charset=utf-8
+}
+[22-11-2024 14:05:47] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Get API: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+  Date: Fri, 22 Nov 2024 08:35:46 GMT
+  Server: Kestrel
+  Content-Type: application/json; charset=utf-8
+}
+[22-11-2024 14:05:50] : [jegadeeshwar.t] : [INFO] : Logout recorded
+[22-11-2024 14:05:50] : [jegadeeshwar.t] : [INFO] : Logout Attendance Update API: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+  Date: Fri, 22 Nov 2024 08:35:48 GMT
+  Server: Kestrel
+  Content-Type: text/plain; charset=utf-8
+}
+[22-11-2024 14:05:50] : [jegadeeshwar.t] : [INFO] : Application started
+[22-11-2024 14:05:50] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[22-11-2024 14:05:55] : [jegadeeshwar.t] : [INFO] : Application closed

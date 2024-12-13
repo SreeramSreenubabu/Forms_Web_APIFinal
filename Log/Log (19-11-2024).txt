@@ -1,0 +1,123 @@
+[19-11-2024 17:51:45] : [jegadeeshwar.t] : [INFO] : Application started
+[19-11-2024 17:51:45] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[19-11-2024 17:51:49] : [jegadeeshwar.t] : [WARN] : Login failed: Username column is empty
+[19-11-2024 17:52:06] : [Jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[19-11-2024 17:52:06] : [Jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [Jegadeeshoff@gmail.com]
+[19-11-2024 17:52:06] : [Jegadeeshoff@gmail.com] : [INFO] : Attendance Inserted
+[19-11-2024 17:52:06] : [Jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[19-11-2024 17:52:10] : [Jegadeeshoff@gmail.com] : [INFO] : Attendance opened
+[19-11-2024 17:52:12] : [jegadeeshwar.t] : [INFO] : Logout recorded
+[19-11-2024 17:52:15] : [Jegadeeshoff@gmail.com] : [INFO] : Application closed
+[19-11-2024 17:53:57] : [jegadeeshwar.t] : [INFO] : Application started
+[19-11-2024 17:53:57] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[19-11-2024 17:54:12] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[19-11-2024 17:54:12] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[19-11-2024 17:54:12] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Inserted
+[19-11-2024 17:54:12] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[19-11-2024 17:54:14] : [jegadeeshoff@gmail.com] : [INFO] : Attendance opened
+[19-11-2024 17:54:16] : [jegadeeshoff@gmail.com] : [ERRO] : Error inserting attendance: 
+[19-11-2024 17:54:18] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[19-11-2024 17:54:18] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[19-11-2024 17:54:18] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Inserted
+[19-11-2024 17:54:18] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[19-11-2024 17:54:21] : [jegadeeshoff@gmail.com] : [ERRO] : Error inserting attendance: 
+[19-11-2024 17:54:24] : [jegadeeshoff@gmail.com] : [INFO] : Application closed
+[19-11-2024 17:54:42] : [jegadeeshwar.t] : [INFO] : Application started
+[19-11-2024 17:54:42] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[19-11-2024 17:54:58] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[19-11-2024 17:54:58] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[19-11-2024 17:54:58] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Inserted
+[19-11-2024 17:54:58] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[19-11-2024 17:54:59] : [jegadeeshwar.t] : [INFO] : Logout recorded
+[19-11-2024 17:55:09] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[19-11-2024 17:55:09] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[19-11-2024 17:55:09] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Inserted
+[19-11-2024 17:55:09] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[19-11-2024 17:55:14] : [jegadeeshwar.t] : [INFO] : Logout recorded
+[19-11-2024 17:55:17] : [jegadeeshoff@gmail.com] : [INFO] : Application closed
+[19-11-2024 17:57:19] : [jegadeeshwar.t] : [INFO] : Application started
+[19-11-2024 17:57:19] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[19-11-2024 17:57:33] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[19-11-2024 17:57:33] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[19-11-2024 17:57:33] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Inserted
+[19-11-2024 17:57:33] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[19-11-2024 17:57:35] : [jegadeeshwar.t] : [INFO] : Logout recorded
+[19-11-2024 17:57:38] : [jegadeeshoff@gmail.com] : [INFO] : Application closed
+[19-11-2024 18:03:36] : [jegadeeshwar.t] : [INFO] : Application started
+[19-11-2024 18:03:36] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[19-11-2024 18:05:07] : [jegadeeshwar.t] : [ERRO] : Connection Error: An error occurred while sending the request.
+[19-11-2024 18:05:12] : [jegadeeshwar.t] : [INFO] : Application closed
+[19-11-2024 18:06:04] : [jegadeeshwar.t] : [INFO] : Application started
+[19-11-2024 18:06:05] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[19-11-2024 18:06:26] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[19-11-2024 18:06:26] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[19-11-2024 18:06:26] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Inserted
+[19-11-2024 18:06:26] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[19-11-2024 18:06:28] : [jegadeeshwar.t] : [INFO] : Logout recorded
+[19-11-2024 18:06:28] : [jegadeeshwar.t] : [INFO] : Logout Recorder and Attendance Updated
+[19-11-2024 18:06:30] : [jegadeeshoff@gmail.com] : [INFO] : Application closed
+[19-11-2024 18:07:50] : [jegadeeshwar.t] : [INFO] : Application started
+[19-11-2024 18:07:50] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[19-11-2024 18:07:58] : [jegadeeshwar.t] : [WARN] : Login failed: Invalid username or password
+[19-11-2024 18:08:17] : [jegadeeshwar.t] : [WARN] : Login failed: Invalid username or password
+[19-11-2024 18:08:26] : [jegadeeshwar.t] : [WARN] : Login failed: Invalid username or password
+[19-11-2024 18:08:32] : [jegadeeshwar.t] : [WARN] : Login failed: Invalid username or password
+[19-11-2024 18:08:42] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[19-11-2024 18:08:42] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[19-11-2024 18:08:42] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Inserted
+[19-11-2024 18:08:42] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[19-11-2024 18:08:43] : [jegadeeshwar.t] : [INFO] : Logout recorded
+[19-11-2024 18:08:43] : [jegadeeshwar.t] : [INFO] : Logout Recorder and Attendance Updated
+[19-11-2024 18:08:45] : [jegadeeshoff@gmail.com] : [INFO] : Application closed
+[19-11-2024 18:23:12] : [jegadeeshwar.t] : [INFO] : Application started
+[19-11-2024 18:23:12] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[19-11-2024 18:24:33] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[19-11-2024 18:24:34] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[19-11-2024 18:24:37] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Inserted
+[19-11-2024 18:24:38] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[19-11-2024 18:24:46] : [jegadeeshoff@gmail.com] : [INFO] : Profile opened
+[19-11-2024 18:24:49] : [jegadeeshwar.t] : [INFO] : Logout recorded
+[19-11-2024 18:30:23] : [jegadeeshwar.t] : [INFO] : Application started
+[19-11-2024 18:30:23] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[19-11-2024 18:30:50] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[19-11-2024 18:30:50] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[19-11-2024 18:30:53] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Inserted
+[19-11-2024 18:30:56] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[19-11-2024 18:31:03] : [jegadeeshwar.t] : [INFO] : Application started
+[19-11-2024 18:31:03] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[19-11-2024 18:32:38] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[19-11-2024 18:32:38] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[19-11-2024 18:32:52] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Inserted
+[19-11-2024 18:35:16] : [jegadeeshwar.t] : [INFO] : Application started
+[19-11-2024 18:35:16] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[19-11-2024 18:35:22] : [jegadeeshwar.t] : [INFO] : Application closed
+[19-11-2024 19:08:50] : [jegadeeshwar.t] : [INFO] : Application started
+[19-11-2024 19:08:50] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[19-11-2024 19:09:05] : [jegadeeshwar.t] : [WARN] : Login failed: Password column is empty
+[19-11-2024 19:09:13] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[19-11-2024 19:09:13] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[19-11-2024 19:09:13] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Inserted
+[19-11-2024 19:09:13] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[19-11-2024 19:09:22] : [jegadeeshoff@gmail.com] : [INFO] : Profile opened
+[19-11-2024 19:09:29] : [jegadeeshoff@gmail.com] : [INFO] : Profile closed
+[19-11-2024 19:09:29] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[19-11-2024 19:09:30] : [jegadeeshoff@gmail.com] : [INFO] : Attendance opened
+[19-11-2024 19:09:41] : [jegadeeshwar.t] : [INFO] : Logout recorded
+[19-11-2024 19:09:43] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[19-11-2024 19:09:43] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[19-11-2024 19:09:43] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Inserted
+[19-11-2024 19:09:43] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[19-11-2024 19:09:48] : [jegadeeshoff@gmail.com] : [INFO] : Attendance opened
+[19-11-2024 19:12:21] : [jegadeeshwar.t] : [INFO] : Logout recorded
+[19-11-2024 19:12:32] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[19-11-2024 19:12:32] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[19-11-2024 19:12:32] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Inserted
+[19-11-2024 19:12:32] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[19-11-2024 19:12:43] : [jegadeeshoff@gmail.com] : [INFO] : Attendance opened
+[19-11-2024 19:13:11] : [jegadeeshwar.t] : [INFO] : Logout recorded
+[19-11-2024 19:13:13] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[19-11-2024 19:13:13] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[19-11-2024 19:13:13] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Inserted
+[19-11-2024 19:13:13] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[19-11-2024 19:13:16] : [jegadeeshoff@gmail.com] : [INFO] : Attendance opened
+[19-11-2024 19:14:51] : [jegadeeshwar.t] : [INFO] : Logout recorded

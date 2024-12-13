@@ -1,0 +1,438 @@
+[28-11-2024 09:47:36] : [jegadeeshwar.t] : [INFO] : Application started
+[28-11-2024 09:47:38] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[28-11-2024 09:48:37] : [jegadeeshwar.t] : [WARN] : Login failed: Invalid username or password
+[28-11-2024 09:48:41] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[28-11-2024 09:48:41] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[28-11-2024 09:48:41] : [jegadeeshoff@gmail.com] : [INFO] : Login API: Method: POST, RequestUri: 'http://localhost:5292/api/Login/LoginUser', Version: 1.1, Content: System.Net.Http.StringContent, Headers:
+{
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 56
+}
+[28-11-2024 09:48:41] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Inserted
+[28-11-2024 09:48:41] : [jegadeeshoff@gmail.com] : [INFO] : Insert Attendance API: Method: POST, RequestUri: 'http://localhost:5292/api/Attendance/Insert', Version: 1.1, Content: System.Net.Http.StringContent, Headers:
+{
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 34
+}
+[28-11-2024 09:48:42] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[28-11-2024 09:48:43] : [jegadeeshoff@gmail.com] : [INFO] : Profile Get API: Method: GET, RequestUri: 'http://localhost:5292/api/Profile/GetProfile', Version: 1.1, Content: <null>, Headers:
+{
+}
+[28-11-2024 09:48:43] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Get API: Method: GET, RequestUri: 'http://localhost:5292/api/Attendance/GetAttendance', Version: 1.1, Content: <null>, Headers:
+{
+}
+[28-11-2024 09:48:46] : [jegadeeshoff@gmail.com] : [INFO] : Profile opened
+[28-11-2024 09:48:46] : [jegadeeshoff@gmail.com] : [INFO] : Profile Get API: Method: GET, RequestUri: 'http://localhost:5292/api/Profile/GetProfile', Version: 1.1, Content: <null>, Headers:
+{
+}
+[28-11-2024 09:48:48] : [jegadeeshoff@gmail.com] : [INFO] : Profile closed
+[28-11-2024 09:48:48] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[28-11-2024 09:48:48] : [jegadeeshoff@gmail.com] : [INFO] : Profile Get API: Method: GET, RequestUri: 'http://localhost:5292/api/Profile/GetProfile', Version: 1.1, Content: <null>, Headers:
+{
+}
+[28-11-2024 09:48:48] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Get API: Method: GET, RequestUri: 'http://localhost:5292/api/Attendance/GetAttendance', Version: 1.1, Content: <null>, Headers:
+{
+}
+[28-11-2024 09:48:51] : [jegadeeshoff@gmail.com] : [INFO] : Attendance opened
+[28-11-2024 09:48:51] : [jegadeeshoff@gmail.com] : [INFO] : Get Attendance API: Method: GET, RequestUri: 'http://localhost:5292/api/Attendance/GetAttendance', Version: 1.1, Content: <null>, Headers:
+{
+}
+[28-11-2024 09:48:52] : [jegadeeshoff@gmail.com] : [INFO] : Attendance closed
+[28-11-2024 09:48:52] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[28-11-2024 09:48:52] : [jegadeeshoff@gmail.com] : [INFO] : Profile Get API: Method: GET, RequestUri: 'http://localhost:5292/api/Profile/GetProfile', Version: 1.1, Content: <null>, Headers:
+{
+}
+[28-11-2024 09:48:52] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Get API: Method: GET, RequestUri: 'http://localhost:5292/api/Attendance/GetAttendance', Version: 1.1, Content: <null>, Headers:
+{
+}
+[28-11-2024 09:48:58] : [jegadeeshwar.t] : [INFO] : Logout recorded
+[28-11-2024 09:48:58] : [jegadeeshwar.t] : [INFO] : Logout Attendance Update API: Method: PUT, RequestUri: 'http://localhost:5292/api/Attendance/Update', Version: 1.1, Content: System.Net.Http.StringContent, Headers:
+{
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 34
+}
+[28-11-2024 09:48:58] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[28-11-2024 09:49:08] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[28-11-2024 09:49:08] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[28-11-2024 09:49:08] : [jegadeeshoff@gmail.com] : [INFO] : Login API: Method: POST, RequestUri: 'http://localhost:5292/api/Login/LoginUser', Version: 1.1, Content: System.Net.Http.StringContent, Headers:
+{
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 56
+}
+[28-11-2024 09:49:08] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Inserted
+[28-11-2024 09:49:08] : [jegadeeshoff@gmail.com] : [INFO] : Insert Attendance API: Method: POST, RequestUri: 'http://localhost:5292/api/Attendance/Insert', Version: 1.1, Content: System.Net.Http.StringContent, Headers:
+{
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 34
+}
+[28-11-2024 09:49:08] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[28-11-2024 09:49:08] : [jegadeeshoff@gmail.com] : [INFO] : Profile Get API: Method: GET, RequestUri: 'http://localhost:5292/api/Profile/GetProfile', Version: 1.1, Content: <null>, Headers:
+{
+}
+[28-11-2024 09:49:08] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Get API: Method: GET, RequestUri: 'http://localhost:5292/api/Attendance/GetAttendance', Version: 1.1, Content: <null>, Headers:
+{
+}
+[28-11-2024 09:49:10] : [jegadeeshoff@gmail.com] : [INFO] : Profile opened
+[28-11-2024 09:49:10] : [jegadeeshoff@gmail.com] : [INFO] : Profile Get API: Method: GET, RequestUri: 'http://localhost:5292/api/Profile/GetProfile', Version: 1.1, Content: <null>, Headers:
+{
+}
+[28-11-2024 09:49:12] : [jegadeeshwar.t] : [INFO] : Logout recorded
+[28-11-2024 09:49:12] : [jegadeeshwar.t] : [INFO] : Logout Attendance Update API: Method: PUT, RequestUri: 'http://localhost:5292/api/Attendance/Update', Version: 1.1, Content: System.Net.Http.StringContent, Headers:
+{
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 34
+}
+[28-11-2024 09:49:12] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[28-11-2024 09:49:20] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[28-11-2024 09:49:21] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[28-11-2024 09:49:21] : [jegadeeshoff@gmail.com] : [INFO] : Login API: Method: POST, RequestUri: 'http://localhost:5292/api/Login/LoginUser', Version: 1.1, Content: System.Net.Http.StringContent, Headers:
+{
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 56
+}
+[28-11-2024 09:49:21] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Inserted
+[28-11-2024 09:49:21] : [jegadeeshoff@gmail.com] : [INFO] : Insert Attendance API: Method: POST, RequestUri: 'http://localhost:5292/api/Attendance/Insert', Version: 1.1, Content: System.Net.Http.StringContent, Headers:
+{
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 34
+}
+[28-11-2024 09:49:21] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[28-11-2024 09:49:21] : [jegadeeshoff@gmail.com] : [INFO] : Profile Get API: Method: GET, RequestUri: 'http://localhost:5292/api/Profile/GetProfile', Version: 1.1, Content: <null>, Headers:
+{
+}
+[28-11-2024 09:49:21] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Get API: Method: GET, RequestUri: 'http://localhost:5292/api/Attendance/GetAttendance', Version: 1.1, Content: <null>, Headers:
+{
+}
+[28-11-2024 09:49:22] : [jegadeeshoff@gmail.com] : [INFO] : Attendance opened
+[28-11-2024 09:49:22] : [jegadeeshoff@gmail.com] : [INFO] : Get Attendance API: Method: GET, RequestUri: 'http://localhost:5292/api/Attendance/GetAttendance', Version: 1.1, Content: <null>, Headers:
+{
+}
+[28-11-2024 09:49:24] : [jegadeeshwar.t] : [INFO] : Logout recorded
+[28-11-2024 09:49:24] : [jegadeeshwar.t] : [INFO] : Logout API: Method: PUT, RequestUri: 'http://localhost:5292/api/Attendance/Update', Version: 1.1, Content: System.Net.Http.StringContent, Headers:
+{
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 34
+}
+[28-11-2024 09:49:24] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[28-11-2024 09:49:33] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[28-11-2024 09:49:33] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[28-11-2024 09:49:33] : [jegadeeshoff@gmail.com] : [INFO] : Login API: Method: POST, RequestUri: 'http://localhost:5292/api/Login/LoginUser', Version: 1.1, Content: System.Net.Http.StringContent, Headers:
+{
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 56
+}
+[28-11-2024 09:49:33] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Inserted
+[28-11-2024 09:49:33] : [jegadeeshoff@gmail.com] : [INFO] : Insert Attendance API: Method: POST, RequestUri: 'http://localhost:5292/api/Attendance/Insert', Version: 1.1, Content: System.Net.Http.StringContent, Headers:
+{
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 34
+}
+[28-11-2024 09:49:33] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[28-11-2024 09:49:33] : [jegadeeshoff@gmail.com] : [INFO] : Profile Get API: Method: GET, RequestUri: 'http://localhost:5292/api/Profile/GetProfile', Version: 1.1, Content: <null>, Headers:
+{
+}
+[28-11-2024 09:49:33] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Get API: Method: GET, RequestUri: 'http://localhost:5292/api/Attendance/GetAttendance', Version: 1.1, Content: <null>, Headers:
+{
+}
+[28-11-2024 09:49:35] : [jegadeeshwar.t] : [INFO] : Logout recorded
+[28-11-2024 09:49:35] : [jegadeeshwar.t] : [INFO] : Logout Attendance Update API: Method: PUT, RequestUri: 'http://localhost:5292/api/Attendance/Update', Version: 1.1, Content: System.Net.Http.StringContent, Headers:
+{
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 34
+}
+[28-11-2024 09:49:35] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[28-11-2024 09:49:35] : [jegadeeshwar.t] : [INFO] : Logout Recorder and Attendance Updated
+[28-11-2024 09:49:43] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[28-11-2024 09:49:43] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[28-11-2024 09:49:43] : [jegadeeshoff@gmail.com] : [INFO] : Login API: Method: POST, RequestUri: 'http://localhost:5292/api/Login/LoginUser', Version: 1.1, Content: System.Net.Http.StringContent, Headers:
+{
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 56
+}
+[28-11-2024 09:49:43] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Inserted
+[28-11-2024 09:49:43] : [jegadeeshoff@gmail.com] : [INFO] : Insert Attendance API: Method: POST, RequestUri: 'http://localhost:5292/api/Attendance/Insert', Version: 1.1, Content: System.Net.Http.StringContent, Headers:
+{
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 34
+}
+[28-11-2024 09:49:43] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[28-11-2024 09:49:43] : [jegadeeshoff@gmail.com] : [INFO] : Profile Get API: Method: GET, RequestUri: 'http://localhost:5292/api/Profile/GetProfile', Version: 1.1, Content: <null>, Headers:
+{
+}
+[28-11-2024 09:49:43] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Get API: Method: GET, RequestUri: 'http://localhost:5292/api/Attendance/GetAttendance', Version: 1.1, Content: <null>, Headers:
+{
+}
+[28-11-2024 09:49:44] : [jegadeeshoff@gmail.com] : [INFO] : Profile opened
+[28-11-2024 09:49:44] : [jegadeeshoff@gmail.com] : [INFO] : Profile Get API: Method: GET, RequestUri: 'http://localhost:5292/api/Profile/GetProfile', Version: 1.1, Content: <null>, Headers:
+{
+}
+[28-11-2024 09:49:46] : [jegadeeshwar.t] : [INFO] : Logout recorded
+[28-11-2024 09:49:46] : [jegadeeshwar.t] : [INFO] : Logout API: Method: PUT, RequestUri: 'http://localhost:5292/api/Attendance/Update', Version: 1.1, Content: System.Net.Http.StringContent, Headers:
+{
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 34
+}
+[28-11-2024 09:49:46] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[28-11-2024 09:49:54] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[28-11-2024 09:49:54] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[28-11-2024 09:49:54] : [jegadeeshoff@gmail.com] : [INFO] : Login API: Method: POST, RequestUri: 'http://localhost:5292/api/Login/LoginUser', Version: 1.1, Content: System.Net.Http.StringContent, Headers:
+{
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 56
+}
+[28-11-2024 09:49:54] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Inserted
+[28-11-2024 09:49:54] : [jegadeeshoff@gmail.com] : [INFO] : Insert Attendance API: Method: POST, RequestUri: 'http://localhost:5292/api/Attendance/Insert', Version: 1.1, Content: System.Net.Http.StringContent, Headers:
+{
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 34
+}
+[28-11-2024 09:49:54] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[28-11-2024 09:49:54] : [jegadeeshoff@gmail.com] : [INFO] : Profile Get API: Method: GET, RequestUri: 'http://localhost:5292/api/Profile/GetProfile', Version: 1.1, Content: <null>, Headers:
+{
+}
+[28-11-2024 09:49:54] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Get API: Method: GET, RequestUri: 'http://localhost:5292/api/Attendance/GetAttendance', Version: 1.1, Content: <null>, Headers:
+{
+}
+[28-11-2024 09:49:55] : [jegadeeshoff@gmail.com] : [INFO] : Attendance opened
+[28-11-2024 09:49:55] : [jegadeeshoff@gmail.com] : [INFO] : Get Attendance API: Method: GET, RequestUri: 'http://localhost:5292/api/Attendance/GetAttendance', Version: 1.1, Content: <null>, Headers:
+{
+}
+[28-11-2024 09:49:57] : [jegadeeshwar.t] : [INFO] : Logout recorded
+[28-11-2024 09:49:57] : [jegadeeshwar.t] : [INFO] : Logout API: Method: PUT, RequestUri: 'http://localhost:5292/api/Attendance/Update', Version: 1.1, Content: System.Net.Http.StringContent, Headers:
+{
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 34
+}
+[28-11-2024 09:49:57] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[28-11-2024 09:50:03] : [jegadeeshwar.t] : [INFO] : Application exit
+[28-11-2024 09:50:10] : [jegadeeshwar.t] : [INFO] : Application exit
+[28-11-2024 09:50:11] : [jegadeeshwar.t] : [INFO] : Application closed
+[28-11-2024 09:52:56] : [jegadeeshwar.t] : [INFO] : Application started
+[28-11-2024 09:52:57] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[28-11-2024 09:52:58] : [jegadeeshwar.t] : [INFO] : Application exit
+[28-11-2024 09:52:59] : [jegadeeshwar.t] : [INFO] : Application closed
+[28-11-2024 09:53:45] : [jegadeeshwar.t] : [INFO] : Application started
+[28-11-2024 09:53:46] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[28-11-2024 09:53:47] : [jegadeeshwar.t] : [INFO] : Application exit
+[28-11-2024 09:53:49] : [jegadeeshwar.t] : [INFO] : Application exit
+[28-11-2024 09:53:50] : [jegadeeshwar.t] : [INFO] : Application exit
+[28-11-2024 09:53:51] : [jegadeeshwar.t] : [INFO] : Application closed
+[28-11-2024 09:54:38] : [jegadeeshwar.t] : [INFO] : Application started
+[28-11-2024 09:54:39] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[28-11-2024 09:54:42] : [jegadeeshwar.t] : [INFO] : Application exit
+[28-11-2024 09:54:43] : [jegadeeshwar.t] : [INFO] : Application exit
+[28-11-2024 09:54:45] : [jegadeeshwar.t] : [INFO] : Application closed
+[28-11-2024 14:41:54] : [jegadeeshwar.t] : [INFO] : Application started
+[28-11-2024 14:41:56] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[28-11-2024 14:42:35] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[28-11-2024 14:42:35] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[28-11-2024 14:42:35] : [jegadeeshoff@gmail.com] : [INFO] : Login API: Method: POST, RequestUri: 'http://localhost:5292/api/Login/LoginUser', Version: 1.1, Content: System.Net.Http.StringContent, Headers:
+{
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 56
+}
+[28-11-2024 14:42:35] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Inserted
+[28-11-2024 14:42:35] : [jegadeeshoff@gmail.com] : [INFO] : Insert Attendance API: Method: POST, RequestUri: 'http://localhost:5292/api/Attendance/Insert', Version: 1.1, Content: System.Net.Http.StringContent, Headers:
+{
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 34
+}
+[28-11-2024 14:42:35] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[28-11-2024 14:42:37] : [jegadeeshoff@gmail.com] : [INFO] : Profile Get API: Method: GET, RequestUri: 'http://localhost:5292/api/Profile/GetProfile', Version: 1.1, Content: <null>, Headers:
+{
+}
+[28-11-2024 14:42:37] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Get API: Method: GET, RequestUri: 'http://localhost:5292/api/Attendance/GetAttendance', Version: 1.1, Content: <null>, Headers:
+{
+}
+[28-11-2024 14:42:39] : [jegadeeshoff@gmail.com] : [INFO] : Attendance opened
+[28-11-2024 14:42:40] : [jegadeeshoff@gmail.com] : [INFO] : Get Attendance API: Method: GET, RequestUri: 'http://localhost:5292/api/Attendance/GetAttendance', Version: 1.1, Content: <null>, Headers:
+{
+}
+[28-11-2024 14:43:20] : [jegadeeshwar.t] : [INFO] : Logout recorded
+[28-11-2024 14:43:20] : [jegadeeshwar.t] : [INFO] : Logout API: Method: PUT, RequestUri: 'http://localhost:5292/api/Attendance/Update', Version: 1.1, Content: System.Net.Http.StringContent, Headers:
+{
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 34
+}
+[28-11-2024 14:43:20] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[28-11-2024 14:43:23] : [jegadeeshwar.t] : [INFO] : Application closed
+[28-11-2024 14:55:22] : [jegadeeshwar.t] : [INFO] : Application started
+[28-11-2024 14:55:23] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[28-11-2024 14:55:49] : [jegadeeshwar.t] : [ERRO] : http://localhost:5292/api/Login/LoginUserAn error occurred while sending the request.
+[28-11-2024 14:57:57] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[28-11-2024 14:57:57] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[28-11-2024 14:57:57] : [jegadeeshoff@gmail.com] : [INFO] : Login API: OKMethod: POST, RequestUri: 'http://localhost:5292/api/Login/LoginUser', Version: 1.1, Content: System.Net.Http.StringContent, Headers:
+{
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 56
+}
+[28-11-2024 14:57:57] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Inserted
+[28-11-2024 14:57:57] : [jegadeeshoff@gmail.com] : [INFO] : Insert Attendance API: Method: POST, RequestUri: 'http://localhost:5292/api/Attendance/Insert', Version: 1.1, Content: System.Net.Http.StringContent, Headers:
+{
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 34
+}
+[28-11-2024 14:57:57] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[28-11-2024 14:57:58] : [jegadeeshoff@gmail.com] : [INFO] : Profile Get API: Method: GET, RequestUri: 'http://localhost:5292/api/Profile/GetProfile', Version: 1.1, Content: <null>, Headers:
+{
+}
+[28-11-2024 14:57:58] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Get API: Method: GET, RequestUri: 'http://localhost:5292/api/Attendance/GetAttendance', Version: 1.1, Content: <null>, Headers:
+{
+}
+[28-11-2024 14:59:59] : [jegadeeshwar.t] : [INFO] : Application started
+[28-11-2024 15:00:01] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[28-11-2024 15:24:40] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[28-11-2024 15:24:40] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[28-11-2024 15:24:40] : [jegadeeshoff@gmail.com] : [INFO] : Login API: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+  Date: Thu, 28 Nov 2024 09:54:38 GMT
+  Server: Kestrel
+  Content-Type: text/plain; charset=utf-8
+}
+[28-11-2024 15:24:40] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Inserted
+[28-11-2024 15:24:40] : [jegadeeshoff@gmail.com] : [INFO] : Insert Attendance API: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+  Date: Thu, 28 Nov 2024 09:54:38 GMT
+  Server: Kestrel
+  Content-Type: text/plain; charset=utf-8
+}
+[28-11-2024 15:24:40] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[28-11-2024 15:24:41] : [jegadeeshoff@gmail.com] : [INFO] : Profile Get API: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+  Date: Thu, 28 Nov 2024 09:54:39 GMT
+  Server: Kestrel
+  Content-Type: application/json; charset=utf-8
+}
+[28-11-2024 15:24:41] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Get API: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+  Date: Thu, 28 Nov 2024 09:54:39 GMT
+  Server: Kestrel
+  Content-Type: application/json; charset=utf-8
+}
+[28-11-2024 15:24:56] : [jegadeeshoff@gmail.com] : [INFO] : Attendance opened
+[28-11-2024 15:24:56] : [jegadeeshoff@gmail.com] : [INFO] : Get Attendance API: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+  Date: Thu, 28 Nov 2024 09:54:55 GMT
+  Server: Kestrel
+  Content-Type: application/json; charset=utf-8
+}
+[28-11-2024 15:25:05] : [jegadeeshoff@gmail.com] : [INFO] : Attendance closed
+[28-11-2024 15:25:05] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[28-11-2024 15:25:05] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Get API: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+  Date: Thu, 28 Nov 2024 09:55:04 GMT
+  Server: Kestrel
+  Content-Type: application/json; charset=utf-8
+}
+[28-11-2024 15:25:05] : [jegadeeshoff@gmail.com] : [INFO] : Profile Get API: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+  Date: Thu, 28 Nov 2024 09:55:04 GMT
+  Server: Kestrel
+  Content-Type: application/json; charset=utf-8
+}
+[28-11-2024 15:25:07] : [jegadeeshoff@gmail.com] : [INFO] : Profile opened
+[28-11-2024 15:25:07] : [jegadeeshoff@gmail.com] : [INFO] : Profile Get API: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+  Date: Thu, 28 Nov 2024 09:55:06 GMT
+  Server: Kestrel
+  Content-Type: application/json; charset=utf-8
+}
+[28-11-2024 15:25:11] : [jegadeeshoff@gmail.com] : [INFO] : Profile closed
+[28-11-2024 15:25:11] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[28-11-2024 15:25:11] : [jegadeeshoff@gmail.com] : [INFO] : Profile Get API: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+  Date: Thu, 28 Nov 2024 09:55:10 GMT
+  Server: Kestrel
+  Content-Type: application/json; charset=utf-8
+}
+[28-11-2024 15:25:11] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Get API: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+  Date: Thu, 28 Nov 2024 09:55:10 GMT
+  Server: Kestrel
+  Content-Type: application/json; charset=utf-8
+}
+[28-11-2024 15:25:18] : [jegadeeshwar.t] : [INFO] : Logout recorded
+[28-11-2024 15:25:18] : [jegadeeshwar.t] : [INFO] : Logout Attendance Update API: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+  Date: Thu, 28 Nov 2024 09:55:15 GMT
+  Server: Kestrel
+  Content-Type: text/plain; charset=utf-8
+}
+[28-11-2024 15:25:18] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[28-11-2024 15:25:33] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[28-11-2024 15:25:33] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[28-11-2024 15:25:33] : [jegadeeshoff@gmail.com] : [INFO] : Login API: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+  Date: Thu, 28 Nov 2024 09:55:32 GMT
+  Server: Kestrel
+  Content-Type: text/plain; charset=utf-8
+}
+[28-11-2024 15:25:33] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Inserted
+[28-11-2024 15:25:33] : [jegadeeshoff@gmail.com] : [INFO] : Insert Attendance API: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+  Date: Thu, 28 Nov 2024 09:55:32 GMT
+  Server: Kestrel
+  Content-Type: text/plain; charset=utf-8
+}
+[28-11-2024 15:25:33] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[28-11-2024 15:25:33] : [jegadeeshoff@gmail.com] : [INFO] : Profile Get API: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+  Date: Thu, 28 Nov 2024 09:55:33 GMT
+  Server: Kestrel
+  Content-Type: application/json; charset=utf-8
+}
+[28-11-2024 15:25:33] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Get API: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+  Date: Thu, 28 Nov 2024 09:55:33 GMT
+  Server: Kestrel
+  Content-Type: application/json; charset=utf-8
+}
+[28-11-2024 15:25:38] : [jegadeeshoff@gmail.com] : [INFO] : Attendance opened
+[28-11-2024 15:25:38] : [jegadeeshoff@gmail.com] : [INFO] : Get Attendance API: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+  Date: Thu, 28 Nov 2024 09:55:38 GMT
+  Server: Kestrel
+  Content-Type: application/json; charset=utf-8
+}
+[28-11-2024 15:25:46] : [jegadeeshoff@gmail.com] : [INFO] : Attendance closed
+[28-11-2024 15:25:46] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[28-11-2024 15:25:46] : [jegadeeshoff@gmail.com] : [INFO] : Profile Get API: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+  Date: Thu, 28 Nov 2024 09:55:46 GMT
+  Server: Kestrel
+  Content-Type: application/json; charset=utf-8
+}
+[28-11-2024 15:25:46] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Get API: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+  Date: Thu, 28 Nov 2024 09:55:46 GMT
+  Server: Kestrel
+  Content-Type: application/json; charset=utf-8
+}
+[28-11-2024 15:26:45] : [jegadeeshwar.t] : [INFO] : Logout recorded
+[28-11-2024 15:26:45] : [jegadeeshwar.t] : [INFO] : Logout Attendance Update API: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+  Date: Thu, 28 Nov 2024 09:56:44 GMT
+  Server: Kestrel
+  Content-Type: text/plain; charset=utf-8
+}
+[28-11-2024 15:26:45] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[28-11-2024 15:26:47] : [jegadeeshwar.t] : [INFO] : Application closed

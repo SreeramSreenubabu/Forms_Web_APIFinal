@@ -1,0 +1,170 @@
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.dll.config
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.dll
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.pdb
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\Azure.Core.dll
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\Azure.Identity.dll
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\Microsoft.Identity.Client.dll
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\System.Buffers.dll
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\System.ClientModel.dll
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\System.Memory.Data.dll
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\System.Memory.dll
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\System.Numerics.Vectors.dll
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\System.Security.AccessControl.dll
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\System.Security.Permissions.dll
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\System.Security.Principal.Windows.dll
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\System.Text.Encodings.Web.dll
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\System.Text.Json.dll
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\System.ValueTuple.dll
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\DataAccessLayer.dll.config
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\Azure.Core.xml
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\Azure.Identity.xml
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\Microsoft.Identity.Client.xml
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\System.Buffers.xml
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\System.ClientModel.xml
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\System.Memory.xml
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\System.Memory.Data.xml
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\System.Numerics.Vectors.xml
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\System.Security.AccessControl.xml
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\System.Security.Permissions.xml
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\System.Security.Principal.Windows.xml
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\System.Text.Encodings.Web.xml
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\System.Text.Json.xml
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\System.ValueTuple.xml
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.AssemblyReference.cache
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.CoreCompileInputs.cache
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\obj\Debug\Business.395A7FC9.Up2Date
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.dll
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.pdb
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\Logger.dll
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\Logger.pdb
+D:\Training\Project\WindowsFormApp\BusinessAccessLayer\bin\Debug\Logger.dll.config
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.pdb
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\Azure.Core.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\Azure.Identity.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\Logger.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\Microsoft.Identity.Client.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\System.Buffers.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\System.ClientModel.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\System.Memory.Data.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\System.Memory.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\System.Numerics.Vectors.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\System.Security.AccessControl.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\System.Security.Permissions.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\System.Security.Principal.Windows.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\System.Text.Encodings.Web.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\System.Text.Json.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\System.ValueTuple.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\Logger.pdb
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\Azure.Core.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\Azure.Identity.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\DataAccessLayer.dll.config
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\Microsoft.Identity.Client.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\System.Buffers.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\System.ClientModel.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\System.Memory.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\System.Memory.Data.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\System.Numerics.Vectors.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\System.Security.AccessControl.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\System.Security.Permissions.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\System.Security.Principal.Windows.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\System.Text.Encodings.Web.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\System.Text.Json.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\System.ValueTuple.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.AssemblyReference.cache
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.CoreCompileInputs.cache
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\obj\Debug\Business.395A7FC9.Up2Date
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.pdb
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\System.Data.SqlClient.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\System.Data.SqlClient.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.dll.config
+D:\Training\Project\WindowsFormApp Web API\Web_API\BusinessAccessLayer\bin\Debug\Logger.dll.config

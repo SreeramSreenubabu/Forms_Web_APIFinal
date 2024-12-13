@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Training\\Project\\WindowsFormApp Web API\\Forms_UI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{445D3156-1956-44B6-AA16-EC6BA3566D14}|WindowsFormApp\\WindowsFormApp.csproj|D:\\Training\\Project\\WindowsFormApp Web API\\Forms_UI\\windowsformapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{445D3156-1956-44B6-AA16-EC6BA3566D14}|WindowsFormApp\\WindowsFormApp.csproj|solutionrelative:windowsformapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{445D3156-1956-44B6-AA16-EC6BA3566D14}|WindowsFormApp\\WindowsFormApp.csproj|d:\\training\\project\\windowsformapp web api\\forms_ui\\windowsformapp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{445D3156-1956-44B6-AA16-EC6BA3566D14}|WindowsFormApp\\WindowsFormApp.csproj|solutionrelative:windowsformapp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{445D3156-1956-44B6-AA16-EC6BA3566D14}|WindowsFormApp\\WindowsFormApp.csproj|D:\\Training\\Project\\WindowsFormApp Web API\\Forms_UI\\windowsformapp\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{445D3156-1956-44B6-AA16-EC6BA3566D14}|WindowsFormApp\\WindowsFormApp.csproj|solutionrelative:windowsformapp\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{445D3156-1956-44B6-AA16-EC6BA3566D14}|WindowsFormApp\\WindowsFormApp.csproj|D:\\Training\\Project\\WindowsFormApp Web API\\Forms_UI\\WindowsFormApp\\Profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{445D3156-1956-44B6-AA16-EC6BA3566D14}|WindowsFormApp\\WindowsFormApp.csproj|solutionrelative:WindowsFormApp\\Profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{445D3156-1956-44B6-AA16-EC6BA3566D14}|WindowsFormApp\\WindowsFormApp.csproj|D:\\Training\\Project\\WindowsFormApp Web API\\Forms_UI\\windowsformapp\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{445D3156-1956-44B6-AA16-EC6BA3566D14}|WindowsFormApp\\WindowsFormApp.csproj|solutionrelative:windowsformapp\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Training\\Project\\WindowsFormApp Web API\\Forms_UI\\WindowsFormApp\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormApp\\Program.cs",
+              "ToolTip": "D:\\Training\\Project\\WindowsFormApp Web API\\Forms_UI\\WindowsFormApp\\Program.cs",
+              "RelativeToolTip": "WindowsFormApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T06:29:48.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\Training\\Project\\WindowsFormApp Web API\\Forms_UI\\WindowsFormApp\\Login.cs",
+              "RelativeDocumentMoniker": "WindowsFormApp\\Login.cs",
+              "ToolTip": "D:\\Training\\Project\\WindowsFormApp Web API\\Forms_UI\\WindowsFormApp\\Login.cs",
+              "RelativeToolTip": "WindowsFormApp\\Login.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAnwGQAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:49:55.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "D:\\Training\\Project\\WindowsFormApp Web API\\Forms_UI\\WindowsFormApp\\Dashboard.cs",
+              "RelativeDocumentMoniker": "WindowsFormApp\\Dashboard.cs",
+              "ToolTip": "D:\\Training\\Project\\WindowsFormApp Web API\\Forms_UI\\WindowsFormApp\\Dashboard.cs",
+              "RelativeToolTip": "WindowsFormApp\\Dashboard.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAewFoAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T09:31:58.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Profile.cs",
+              "DocumentMoniker": "D:\\Training\\Project\\WindowsFormApp Web API\\Forms_UI\\WindowsFormApp\\Profile.cs",
+              "RelativeDocumentMoniker": "WindowsFormApp\\Profile.cs",
+              "ToolTip": "D:\\Training\\Project\\WindowsFormApp Web API\\Forms_UI\\WindowsFormApp\\Profile.cs",
+              "RelativeToolTip": "WindowsFormApp\\Profile.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAewFMAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T09:11:24.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "D:\\Training\\Project\\WindowsFormApp Web API\\Forms_UI\\WindowsFormApp\\Attendance.cs",
+              "RelativeDocumentMoniker": "WindowsFormApp\\Attendance.cs",
+              "ToolTip": "D:\\Training\\Project\\WindowsFormApp Web API\\Forms_UI\\WindowsFormApp\\Attendance.cs",
+              "RelativeToolTip": "WindowsFormApp\\Attendance.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAewHQAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T09:36:26.593Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\WindowsFormApp.exe.config
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\WindowsFormApp.exe
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\WindowsFormApp.pdb
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\Azure.Core.dll
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\Azure.Identity.dll
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\BusinessAccessLayer.dll
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\DataAccessLayer.dll
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\Logger.dll
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\Microsoft.Data.SqlClient.dll
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\Microsoft.Identity.Client.dll
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\Microsoft.IdentityModel.Abstractions.dll
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\Microsoft.IdentityModel.Logging.dll
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\Microsoft.IdentityModel.Protocols.dll
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\Microsoft.IdentityModel.Tokens.dll
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\System.Buffers.dll
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\System.ClientModel.dll
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\System.Configuration.ConfigurationManager.dll
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\System.Diagnostics.DiagnosticSource.dll
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\System.IdentityModel.Tokens.Jwt.dll
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\System.IO.FileSystem.AccessControl.dll
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\System.Memory.Data.dll
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\System.Memory.dll
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\System.Numerics.Vectors.dll
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\System.Security.AccessControl.dll
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\System.Security.Cryptography.ProtectedData.dll
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\System.Security.Permissions.dll
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\System.Security.Principal.Windows.dll
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\System.Text.Encodings.Web.dll
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\System.Text.Json.dll
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\System.Threading.Tasks.Extensions.dll
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\System.ValueTuple.dll
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\BusinessAccessLayer.pdb
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\BusinessAccessLayer.dll.config
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\DataAccessLayer.pdb
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\DataAccessLayer.dll.config
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\Logger.pdb
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\Logger.dll.config
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\Azure.Core.xml
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\Azure.Identity.xml
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\Microsoft.Data.SqlClient.xml
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\Microsoft.Identity.Client.xml
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\Microsoft.IdentityModel.Abstractions.xml
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\Microsoft.IdentityModel.Logging.xml
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\Microsoft.IdentityModel.Protocols.xml
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\Microsoft.IdentityModel.Tokens.xml
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\System.Buffers.xml
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\System.ClientModel.xml
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\System.Configuration.ConfigurationManager.xml
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\System.Diagnostics.DiagnosticSource.xml
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\System.IdentityModel.Tokens.Jwt.xml
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\System.IO.FileSystem.AccessControl.xml
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\System.Memory.xml
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\System.Memory.Data.xml
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\System.Numerics.Vectors.xml
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\System.Security.AccessControl.xml
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\System.Security.Cryptography.ProtectedData.xml
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\System.Security.Permissions.xml
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\System.Security.Principal.Windows.xml
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\System.Text.Encodings.Web.xml
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\System.Text.Json.xml
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\System.Threading.Tasks.Extensions.xml
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\System.ValueTuple.xml
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\de\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\es\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\it\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp\WindowsFormApp\bin\Release\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp\WindowsFormApp\obj\Release\WindowsFormApp.csproj.AssemblyReference.cache
+D:\Training\Project\WindowsFormApp\WindowsFormApp\obj\Release\WindowsFormApp.csproj.SuggestedBindingRedirects.cache
+D:\Training\Project\WindowsFormApp\WindowsFormApp\obj\Release\WindowsFormApp.exe.config
+D:\Training\Project\WindowsFormApp\WindowsFormApp\obj\Release\WindowsFormApp.Attendance.resources
+D:\Training\Project\WindowsFormApp\WindowsFormApp\obj\Release\WindowsFormApp.Dashboard.resources
+D:\Training\Project\WindowsFormApp\WindowsFormApp\obj\Release\WindowsFormApp.Login.resources
+D:\Training\Project\WindowsFormApp\WindowsFormApp\obj\Release\WindowsFormApp.Profile.resources
+D:\Training\Project\WindowsFormApp\WindowsFormApp\obj\Release\WindowsFormApp.Properties.Resources.resources
+D:\Training\Project\WindowsFormApp\WindowsFormApp\obj\Release\WindowsFormApp.csproj.GenerateResource.cache
+D:\Training\Project\WindowsFormApp\WindowsFormApp\obj\Release\WindowsFormApp.csproj.CoreCompileInputs.cache
+D:\Training\Project\WindowsFormApp\WindowsFormApp\obj\Release\WindowsF.4A438446.Up2Date
+D:\Training\Project\WindowsFormApp\WindowsFormApp\obj\Release\WindowsFormApp.exe
+D:\Training\Project\WindowsFormApp\WindowsFormApp\obj\Release\WindowsFormApp.pdb
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\WindowsFormApp.exe.config
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\WindowsFormApp.exe
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\WindowsFormApp.pdb
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\Azure.Core.dll
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\Azure.Identity.dll
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\BusinessAccessLayer.dll
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\DataAccessLayer.dll
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\Logger.dll
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\Microsoft.Data.SqlClient.dll
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\Microsoft.Identity.Client.dll
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\Microsoft.IdentityModel.Abstractions.dll
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\Microsoft.IdentityModel.Logging.dll
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\Microsoft.IdentityModel.Protocols.dll
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\Microsoft.IdentityModel.Tokens.dll
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\Newtonsoft.Json.dll
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\System.Buffers.dll
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\System.ClientModel.dll
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\System.Configuration.ConfigurationManager.dll
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\System.Diagnostics.DiagnosticSource.dll
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\System.IdentityModel.Tokens.Jwt.dll
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\System.IO.FileSystem.AccessControl.dll
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\System.IO.Pipelines.dll
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\System.Memory.Data.dll
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\System.Memory.dll
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\System.Net.Http.Json.dll
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\System.Numerics.Vectors.dll
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\System.Security.AccessControl.dll
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\System.Security.Cryptography.ProtectedData.dll
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\System.Security.Permissions.dll
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\System.Security.Principal.Windows.dll
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\System.Text.Encodings.Web.dll
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\System.Text.Json.dll
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\System.Threading.Tasks.Extensions.dll
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\System.ValueTuple.dll
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\Azure.Core.xml
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\Azure.Identity.xml
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\BusinessAccessLayer.pdb
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\BusinessAccessLayer.dll.config
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\DataAccessLayer.pdb
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\DataAccessLayer.dll.config
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\Logger.pdb
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\Logger.dll.config
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\Microsoft.Data.SqlClient.xml
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\Microsoft.Identity.Client.xml
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\Microsoft.IdentityModel.Abstractions.xml
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\Microsoft.IdentityModel.Logging.xml
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\Microsoft.IdentityModel.Protocols.xml
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\Microsoft.IdentityModel.Tokens.xml
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\Newtonsoft.Json.xml
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\System.Buffers.xml
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\System.ClientModel.xml
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\System.Configuration.ConfigurationManager.xml
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\System.Diagnostics.DiagnosticSource.xml
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\System.IdentityModel.Tokens.Jwt.xml
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\System.IO.FileSystem.AccessControl.xml
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\System.IO.Pipelines.xml
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\System.Memory.xml
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\System.Memory.Data.xml
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\System.Net.Http.Json.xml
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\System.Numerics.Vectors.xml
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\System.Security.AccessControl.xml
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\System.Security.Cryptography.ProtectedData.xml
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\System.Security.Permissions.xml
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\System.Security.Principal.Windows.xml
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\System.Text.Encodings.Web.xml
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\System.Text.Json.xml
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\System.Threading.Tasks.Extensions.xml
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\System.ValueTuple.xml
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\de\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\es\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\it\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\bin\Release\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\obj\Release\WindowsFormApp.csproj.AssemblyReference.cache
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\obj\Release\WindowsFormApp.Attendance.resources
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\obj\Release\WindowsFormApp.Dashboard.resources
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\obj\Release\WindowsFormApp.Login.resources
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\obj\Release\WindowsFormApp.Profile.resources
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\obj\Release\WindowsFormApp.Properties.Resources.resources
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\obj\Release\WindowsFormApp.csproj.GenerateResource.cache
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\obj\Release\WindowsFormApp.csproj.CoreCompileInputs.cache
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\obj\Release\WindowsF.4A438446.Up2Date
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\obj\Release\WindowsFormApp.exe
+D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\obj\Release\WindowsFormApp.pdb

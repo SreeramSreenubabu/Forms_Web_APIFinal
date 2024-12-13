@@ -1,0 +1,201 @@
+[25-11-2024 09:19:05] : [jegadeeshwar.t] : [INFO] : Application started
+[25-11-2024 09:19:05] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[25-11-2024 09:19:36] : [jegadeeshwar.t] : [ERRO] : Connection Error: An error occurred while sending the request.
+[25-11-2024 09:19:39] : [jegadeeshwar.t] : [INFO] : Application closed
+[25-11-2024 09:25:42] : [jegadeeshwar.t] : [INFO] : Application started
+[25-11-2024 09:25:42] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[25-11-2024 09:26:26] : [jegadeeshwar.t] : [ERRO] : Connection Error: An error occurred while sending the request.
+[25-11-2024 09:26:31] : [jegadeeshwar.t] : [ERRO] : Connection Error: An error occurred while sending the request.
+[25-11-2024 09:26:35] : [jegadeeshwar.t] : [INFO] : Application closed
+[25-11-2024 11:52:50] : [jegadeeshwar.t] : [INFO] : Application started
+[25-11-2024 11:52:50] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[25-11-2024 11:52:53] : [jegadeeshwar.t] : [INFO] : Application closed
+[25-11-2024 11:54:44] : [jegadeeshwar.t] : [INFO] : Application started
+[25-11-2024 11:54:44] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[25-11-2024 11:54:57] : [jegadeeshwar.t] : [ERRO] : Connection Error: An error occurred while sending the request.
+[25-11-2024 11:54:59] : [jegadeeshwar.t] : [INFO] : Application closed
+[25-11-2024 12:04:28] : [jegadeeshwar.t] : [ERRO] : SQL Error: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+[25-11-2024 12:09:59] : [jegadeeshwar.t] : [INFO] : Application started
+[25-11-2024 12:09:59] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[25-11-2024 12:10:15] : [jegadeeshwar.t] : [ERRO] : Connection Error: An error occurred while sending the request.
+[25-11-2024 12:11:08] : [jegadeeshwar.t] : [ERRO] : Connection Error: An error occurred while sending the request.
+[25-11-2024 12:11:09] : [jegadeeshwar.t] : [ERRO] : Connection Error: An error occurred while sending the request.
+[25-11-2024 12:11:11] : [jegadeeshwar.t] : [ERRO] : Connection Error: An error occurred while sending the request.
+[25-11-2024 12:12:14] : [jegadeeshwar.t] : [INFO] : Application started
+[25-11-2024 12:12:14] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[25-11-2024 12:13:17] : [jegadeeshwar.t] : [INFO] : Application started
+[25-11-2024 12:13:17] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[25-11-2024 12:14:14] : [jegadeeshwar.t] : [ERRO] : Connection Error: System.Net.Http.HttpRequestException: An error occurred while sending the request. ---> System.Net.WebException: The underlying connection was closed: An unexpected error occurred on a send. ---> System.IO.IOException: The handshake failed due to an unexpected packet format.
+   at System.Net.TlsStream.EndWrite(IAsyncResult asyncResult)
+   at System.Net.PooledStream.EndWrite(IAsyncResult asyncResult)
+   at System.Net.ConnectStream.WriteHeadersCallback(IAsyncResult ar)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.EndGetRequestStream(IAsyncResult asyncResult, TransportContext& context)
+   at System.Net.Http.HttpClientHandler.GetRequestStreamCallback(IAsyncResult ar)
+   --- End of inner exception stack trace ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at WindowsFormApp.Login.<btn_Login>d__8.MoveNext() in D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\Login.cs:line 91
+[25-11-2024 12:15:14] : [jegadeeshwar.t] : [INFO] : Application started
+[25-11-2024 12:15:14] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[25-11-2024 12:16:45] : [jegadeeshwar.t] : [INFO] : Application started
+[25-11-2024 12:16:45] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[25-11-2024 12:16:55] : [jegadeeshwar.t] : [ERRO] : Connection Error: System.Net.Http.HttpRequestException: An error occurred while sending the request. ---> System.Net.WebException: The underlying connection was closed: An unexpected error occurred on a send. ---> System.IO.IOException: The handshake failed due to an unexpected packet format.
+   at System.Net.TlsStream.EndWrite(IAsyncResult asyncResult)
+   at System.Net.PooledStream.EndWrite(IAsyncResult asyncResult)
+   at System.Net.ConnectStream.WriteHeadersCallback(IAsyncResult ar)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.EndGetRequestStream(IAsyncResult asyncResult, TransportContext& context)
+   at System.Net.Http.HttpClientHandler.GetRequestStreamCallback(IAsyncResult ar)
+   --- End of inner exception stack trace ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at WindowsFormApp.Login.<btn_Login>d__8.MoveNext() in D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\Login.cs:line 91
+[25-11-2024 12:18:22] : [jegadeeshwar.t] : [INFO] : Application started
+[25-11-2024 12:18:22] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[25-11-2024 12:18:32] : [jegadeeshwar.t] : [ERRO] : https://localhost:5292/api/Login/LoginUser
+[25-11-2024 12:19:14] : [jegadeeshwar.t] : [INFO] : Application started
+[25-11-2024 12:19:14] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[25-11-2024 12:19:40] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[25-11-2024 12:19:40] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[25-11-2024 12:19:40] : [jegadeeshoff@gmail.com] : [INFO] : Login API: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+  Date: Mon, 25 Nov 2024 06:49:39 GMT
+  Server: Kestrel
+  Content-Type: text/plain; charset=utf-8
+}
+[25-11-2024 12:19:40] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Inserted
+[25-11-2024 12:19:40] : [jegadeeshoff@gmail.com] : [INFO] : Insert Attendance API: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+  Date: Mon, 25 Nov 2024 06:49:39 GMT
+  Server: Kestrel
+  Content-Type: text/plain; charset=utf-8
+}
+[25-11-2024 12:19:42] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[25-11-2024 12:19:44] : [jegadeeshoff@gmail.com] : [INFO] : Profile Get API: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+  Date: Mon, 25 Nov 2024 06:49:42 GMT
+  Server: Kestrel
+  Content-Type: application/json; charset=utf-8
+}
+[25-11-2024 12:19:44] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Get API: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+  Date: Mon, 25 Nov 2024 06:49:42 GMT
+  Server: Kestrel
+  Content-Type: application/json; charset=utf-8
+}
+[25-11-2024 12:28:54] : [jegadeeshwar.t] : [INFO] : Application started
+[25-11-2024 12:28:54] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[25-11-2024 12:29:05] : [jegadeeshwar.t] : [WARN] : Login failed: Invalid username or password
+[25-11-2024 12:29:24] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[25-11-2024 12:29:24] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[25-11-2024 12:29:24] : [jegadeeshoff@gmail.com] : [INFO] : Login API: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+  Date: Mon, 25 Nov 2024 06:59:23 GMT
+  Server: Kestrel
+  Content-Type: text/plain; charset=utf-8
+}
+[25-11-2024 12:29:24] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Inserted
+[25-11-2024 12:29:24] : [jegadeeshoff@gmail.com] : [INFO] : Insert Attendance API: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+  Date: Mon, 25 Nov 2024 06:59:23 GMT
+  Server: Kestrel
+  Content-Type: text/plain; charset=utf-8
+}
+[25-11-2024 12:29:24] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[25-11-2024 12:29:24] : [jegadeeshoff@gmail.com] : [INFO] : Profile Get API: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+  Date: Mon, 25 Nov 2024 06:59:24 GMT
+  Server: Kestrel
+  Content-Type: application/json; charset=utf-8
+}
+[25-11-2024 12:29:24] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Get API: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+  Date: Mon, 25 Nov 2024 06:59:24 GMT
+  Server: Kestrel
+  Content-Type: application/json; charset=utf-8
+}
+[25-11-2024 12:29:27] : [jegadeeshwar.t] : [INFO] : Logout recorded
+[25-11-2024 12:29:27] : [jegadeeshwar.t] : [INFO] : Logout Attendance Update API: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+  Date: Mon, 25 Nov 2024 06:59:27 GMT
+  Server: Kestrel
+  Content-Type: text/plain; charset=utf-8
+}
+[25-11-2024 12:29:27] : [jegadeeshwar.t] : [INFO] : Application started
+[25-11-2024 12:29:27] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[25-11-2024 12:29:27] : [jegadeeshwar.t] : [INFO] : Logout Recorder and Attendance Updated
+[25-11-2024 12:29:29] : [jegadeeshwar.t] : [INFO] : Application closed
+[25-11-2024 12:32:16] : [jegadeeshwar.t] : [INFO] : Application started
+[25-11-2024 12:32:16] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[25-11-2024 12:32:32] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[25-11-2024 12:32:32] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[25-11-2024 12:32:32] : [jegadeeshoff@gmail.com] : [INFO] : Login API: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+  Date: Mon, 25 Nov 2024 07:02:30 GMT
+  Server: Kestrel
+  Content-Type: text/plain; charset=utf-8
+}
+[25-11-2024 12:32:32] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Inserted
+[25-11-2024 12:32:32] : [jegadeeshoff@gmail.com] : [INFO] : Insert Attendance API: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+  Date: Mon, 25 Nov 2024 07:02:30 GMT
+  Server: Kestrel
+  Content-Type: text/plain; charset=utf-8
+}
+[25-11-2024 12:32:32] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[25-11-2024 12:32:33] : [jegadeeshoff@gmail.com] : [INFO] : Profile Get API: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+  Date: Mon, 25 Nov 2024 07:02:31 GMT
+  Server: Kestrel
+  Content-Type: application/json; charset=utf-8
+}
+[25-11-2024 12:32:33] : [jegadeeshoff@gmail.com] : [INFO] : Attendance Get API: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+  Date: Mon, 25 Nov 2024 07:02:31 GMT
+  Server: Kestrel
+  Content-Type: application/json; charset=utf-8
+}
+[25-11-2024 12:32:36] : [jegadeeshoff@gmail.com] : [INFO] : Attendance opened
+[25-11-2024 12:32:36] : [jegadeeshoff@gmail.com] : [INFO] : Get Attendance API: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+  Date: Mon, 25 Nov 2024 07:02:35 GMT
+  Server: Kestrel
+  Content-Type: application/json; charset=utf-8
+}
+[25-11-2024 12:32:40] : [jegadeeshwar.t] : [INFO] : Logout recorded
+[25-11-2024 12:32:40] : [jegadeeshwar.t] : [INFO] : Logout API: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+  Date: Mon, 25 Nov 2024 07:02:38 GMT
+  Server: Kestrel
+  Content-Type: text/plain; charset=utf-8
+}
+[25-11-2024 12:32:40] : [jegadeeshwar.t] : [INFO] : Application started
+[25-11-2024 12:32:40] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[25-11-2024 12:32:42] : [jegadeeshwar.t] : [INFO] : Application closed
+[25-11-2024 12:54:11] : [jegadeeshwar.t] : [INFO] : Application started
+[25-11-2024 12:54:11] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[25-11-2024 12:54:33] : [jegadeeshwar.t] : [ERRO] : http://localhost:5292/api/Login/LoginUser
+[25-11-2024 12:54:34] : [jegadeeshwar.t] : [ERRO] : http://localhost:5292/api/Login/LoginUser
+[25-11-2024 12:54:38] : [jegadeeshwar.t] : [INFO] : Application closed
+[25-11-2024 12:55:16] : [jegadeeshwar.t] : [INFO] : Application started
+[25-11-2024 12:55:16] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[25-11-2024 12:55:25] : [jegadeeshwar.t] : [WARN] : Login failed: Invalid username or password
+[25-11-2024 12:55:27] : [jegadeeshwar.t] : [INFO] : Application closed

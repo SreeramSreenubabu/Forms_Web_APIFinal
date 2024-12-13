@@ -1,0 +1,198 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Training\\Project\\WindowsFormApp Web API\\Web_API\\Web_API\\Web_API.csproj": {}
+  },
+  "projects": {
+    "D:\\Training\\Project\\WindowsFormApp Web API\\Web_API\\BusinessAccessLayer\\BusinessAccessLayer.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Training\\Project\\WindowsFormApp Web API\\Web_API\\BusinessAccessLayer\\BusinessAccessLayer.csproj",
+        "projectName": "BusinessAccessLayer",
+        "projectPath": "D:\\Training\\Project\\WindowsFormApp Web API\\Web_API\\BusinessAccessLayer\\BusinessAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\jegadeeshwar.t\\.nuget\\packages\\",
+        "projectStyle": "PackagesConfig",
+        "configFilePaths": [
+          "C:\\Users\\jegadeeshwar.t\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "D:\\Training\\Project\\WindowsFormApp Web API\\Web_API\\Logger\\Logger.csproj": {
+                "projectPath": "D:\\Training\\Project\\WindowsFormApp Web API\\Web_API\\Logger\\Logger.csproj"
+              }
+            }
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low"
+        },
+        "packagesConfigPath": "D:\\Training\\Project\\WindowsFormApp Web API\\Web_API\\BusinessAccessLayer\\packages.config"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\Training\\Project\\WindowsFormApp Web API\\Web_API\\DataAccessLayer\\DataAccessLayer.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Training\\Project\\WindowsFormApp Web API\\Web_API\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectName": "DataAccessLayer",
+        "projectPath": "D:\\Training\\Project\\WindowsFormApp Web API\\Web_API\\DataAccessLayer\\DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\jegadeeshwar.t\\.nuget\\packages\\",
+        "projectStyle": "PackagesConfig",
+        "configFilePaths": [
+          "C:\\Users\\jegadeeshwar.t\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "D:\\Training\\Project\\WindowsFormApp Web API\\Web_API\\BusinessAccessLayer\\BusinessAccessLayer.csproj": {
+                "projectPath": "D:\\Training\\Project\\WindowsFormApp Web API\\Web_API\\BusinessAccessLayer\\BusinessAccessLayer.csproj"
+              },
+              "D:\\Training\\Project\\WindowsFormApp Web API\\Web_API\\Logger\\Logger.csproj": {
+                "projectPath": "D:\\Training\\Project\\WindowsFormApp Web API\\Web_API\\Logger\\Logger.csproj"
+              }
+            }
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low"
+        },
+        "packagesConfigPath": "D:\\Training\\Project\\WindowsFormApp Web API\\Web_API\\DataAccessLayer\\packages.config"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\Training\\Project\\WindowsFormApp Web API\\Web_API\\Logger\\Logger.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Training\\Project\\WindowsFormApp Web API\\Web_API\\Logger\\Logger.csproj",
+        "projectName": "Logger",
+        "projectPath": "D:\\Training\\Project\\WindowsFormApp Web API\\Web_API\\Logger\\Logger.csproj",
+        "packagesPath": "C:\\Users\\jegadeeshwar.t\\.nuget\\packages\\",
+        "projectStyle": "PackagesConfig",
+        "configFilePaths": [
+          "C:\\Users\\jegadeeshwar.t\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low"
+        },
+        "packagesConfigPath": "D:\\Training\\Project\\WindowsFormApp Web API\\Web_API\\Logger\\packages.config"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\Training\\Project\\WindowsFormApp Web API\\Web_API\\Web_API\\Web_API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Training\\Project\\WindowsFormApp Web API\\Web_API\\Web_API\\Web_API.csproj",
+        "projectName": "Web_API",
+        "projectPath": "D:\\Training\\Project\\WindowsFormApp Web API\\Web_API\\Web_API\\Web_API.csproj",
+        "packagesPath": "C:\\Users\\jegadeeshwar.t\\.nuget\\packages\\",
+        "outputPath": "D:\\Training\\Project\\WindowsFormApp Web API\\Web_API\\Web_API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jegadeeshwar.t\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Training\\Project\\WindowsFormApp Web API\\Web_API\\BusinessAccessLayer\\BusinessAccessLayer.csproj": {
+                "projectPath": "D:\\Training\\Project\\WindowsFormApp Web API\\Web_API\\BusinessAccessLayer\\BusinessAccessLayer.csproj"
+              },
+              "D:\\Training\\Project\\WindowsFormApp Web API\\Web_API\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "D:\\Training\\Project\\WindowsFormApp Web API\\Web_API\\DataAccessLayer\\DataAccessLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

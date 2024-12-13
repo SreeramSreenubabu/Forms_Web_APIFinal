@@ -1,0 +1,94 @@
+[21-11-2024 10:54:06] : [jegadeeshwar.t] : [INFO] : Application started
+[21-11-2024 10:54:08] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[21-11-2024 10:54:18] : [jegadeeshwar.t] : [ERRO] : Error: 
+[21-11-2024 10:54:33] : [jegadeeshwar.t] : [ERRO] : Error: 
+[21-11-2024 10:54:35] : [jegadeeshwar.t] : [INFO] : Application closed
+[21-11-2024 10:55:23] : [jegadeeshwar.t] : [INFO] : Application started
+[21-11-2024 10:55:23] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[21-11-2024 10:55:33] : [jegadeeshwar.t] : [ERRO] : Error: 
+[21-11-2024 10:55:34] : [jegadeeshwar.t] : [INFO] : Application closed
+[21-11-2024 10:57:10] : [jegadeeshwar.t] : [INFO] : Application started
+[21-11-2024 10:57:11] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[21-11-2024 10:57:17] : [jegadeeshwar.t] : [ERRO] : Error: 
+[21-11-2024 10:57:19] : [jegadeeshwar.t] : [INFO] : Application closed
+[21-11-2024 11:01:15] : [jegadeeshwar.t] : [INFO] : Application started
+[21-11-2024 11:01:15] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[21-11-2024 11:05:39] : [jegadeeshwar.t] : [INFO] : Application started
+[21-11-2024 11:05:40] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[21-11-2024 11:05:53] : [jegadeeshwar.t] : [WARN] : Login failed: Invalid username or password
+[21-11-2024 11:06:03] : [jegadeeshwar.t] : [WARN] : Login failed: Invalid username or password
+[21-11-2024 11:06:10] : [jegadeeshwar.t] : [INFO] : Application closed
+[21-11-2024 11:32:56] : [jegadeeshwar.t] : [INFO] : Application started
+[21-11-2024 11:32:56] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[21-11-2024 11:33:17] : [jegadeeshwar.t] : [WARN] : Login failed: Invalid username or password
+[21-11-2024 11:33:20] : [jegadeeshwar.t] : [INFO] : Application closed
+[21-11-2024 11:33:39] : [jegadeeshwar.t] : [INFO] : Application started
+[21-11-2024 11:33:39] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[21-11-2024 11:38:33] : [jegadeeshwar.t] : [INFO] : Application started
+[21-11-2024 11:38:34] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[21-11-2024 11:38:50] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[21-11-2024 11:38:50] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[21-11-2024 11:38:50] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[21-11-2024 11:38:58] : [jegadeeshoff@gmail.com] : [ERRO] : Error inserting attendance: 
+[21-11-2024 11:38:58] : [jegadeeshwar.t] : [INFO] : Logout Recorder and Attendance Updated
+[21-11-2024 11:38:59] : [jegadeeshoff@gmail.com] : [INFO] : Application closed
+[21-11-2024 17:09:16] : [jegadeeshwar.t] : [INFO] : Application started
+[21-11-2024 17:09:17] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[21-11-2024 17:10:12] : [jegadeeshwar.t] : [WARN] : Login failed: Password column is empty
+[21-11-2024 17:10:20] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[21-11-2024 17:10:20] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[21-11-2024 17:10:20] : [jegadeeshoff@gmail.com] : [ERRO] : Error while inserting attendanceCannot access a disposed object.
+Object name: 'System.Net.Http.StringContent'.
+[21-11-2024 17:10:37] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[21-11-2024 17:10:41] : [jegadeeshoff@gmail.com] : [ERRO] : Error while updating attendance
+[21-11-2024 17:10:41] : [jegadeeshwar.t] : [INFO] : Logout Recorder and Attendance Updated
+[21-11-2024 17:10:43] : [jegadeeshoff@gmail.com] : [INFO] : Application closed
+[21-11-2024 17:14:00] : [jegadeeshwar.t] : [INFO] : Application started
+[21-11-2024 17:14:00] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[21-11-2024 17:14:15] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[21-11-2024 17:14:15] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[21-11-2024 17:14:15] : [jegadeeshoff@gmail.com] : [ERRO] : Error while inserting attendanceCannot access a disposed object.
+Object name: 'System.Net.Http.StringContent'.
+[21-11-2024 17:15:59] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[21-11-2024 17:16:02] : [jegadeeshoff@gmail.com] : [ERRO] : Error while updating attendance
+[21-11-2024 17:16:33] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[21-11-2024 17:16:33] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[21-11-2024 17:16:33] : [jegadeeshoff@gmail.com] : [ERRO] : Error while inserting attendanceCannot access a disposed object.
+Object name: 'System.Net.Http.StringContent'.
+[21-11-2024 17:16:43] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[21-11-2024 17:16:45] : [jegadeeshoff@gmail.com] : [ERRO] : Error while updating attendance
+[21-11-2024 17:17:31] : [jegadeeshoff@gmail.com] : [INFO] : Login Successful
+[21-11-2024 17:17:31] : [jegadeeshoff@gmail.com] : [INFO] : Login Info - User: [jegadeeshoff@gmail.com]
+[21-11-2024 17:17:31] : [jegadeeshoff@gmail.com] : [ERRO] : Error while inserting attendanceCannot access a disposed object.
+Object name: 'System.Net.Http.StringContent'.
+[21-11-2024 17:17:37] : [jegadeeshoff@gmail.com] : [INFO] : Dashboard opened
+[21-11-2024 17:17:43] : [jegadeeshoff@gmail.com] : [ERRO] : Error while updating attendance
+[21-11-2024 18:21:07] : [jegadeeshwar.t] : [INFO] : Application started
+[21-11-2024 18:21:08] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[21-11-2024 18:21:58] : [jegadeeshwar.t] : [ERRO] : Error: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+[21-11-2024 18:21:58] : [jegadeeshwar.t] : [ERRO] : Error occurs in Login (BAL.cs): Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+[21-11-2024 18:22:00] : [jegadeeshwar.t] : [WARN] : Login failed: Invalid username or password
+[21-11-2024 18:22:05] : [jegadeeshwar.t] : [ERRO] : Error: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+[21-11-2024 18:22:05] : [jegadeeshwar.t] : [ERRO] : Error occurs in Login (BAL.cs): Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+[21-11-2024 18:22:07] : [jegadeeshwar.t] : [WARN] : Login failed: Invalid username or password
+[21-11-2024 18:22:31] : [jegadeeshwar.t] : [ERRO] : Error: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+[21-11-2024 18:22:31] : [jegadeeshwar.t] : [ERRO] : Error occurs in Login (BAL.cs): Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+[21-11-2024 18:22:32] : [jegadeeshwar.t] : [WARN] : Login failed: Invalid username or password
+[21-11-2024 18:22:34] : [jegadeeshwar.t] : [ERRO] : SQL Error: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+[21-11-2024 18:22:34] : [jegadeeshwar.t] : [ERRO] : Error occurs in Login (BAL.cs): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+[21-11-2024 18:23:20] : [jegadeeshwar.t] : [WARN] : Login failed: Invalid username or password
+[21-11-2024 18:33:59] : [jegadeeshwar.t] : [INFO] : Application started
+[21-11-2024 18:34:00] : [jegadeeshwar.t] : [INFO] : App Run Env - System Name: [SVI-ITS-DTP0192], System User: [jegadeeshwar.t], IP: 10.1.13.57
+[21-11-2024 18:34:20] : [jegadeeshwar.t] : [ERRO] : Error occurs while Login: System.Net.Http.HttpRequestException: An error occurred while sending the request. ---> System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:7130
+   at System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.EndGetRequestStream(IAsyncResult asyncResult, TransportContext& context)
+   at System.Net.Http.HttpClientHandler.GetRequestStreamCallback(IAsyncResult ar)
+   --- End of inner exception stack trace ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at WindowsFormApp.Login.<btn_Login>d__7.MoveNext() in D:\Training\Project\WindowsFormApp Web API\Forms_UI\WindowsFormApp\Login.cs:line 87
+[21-11-2024 18:34:23] : [jegadeeshwar.t] : [INFO] : Application closed

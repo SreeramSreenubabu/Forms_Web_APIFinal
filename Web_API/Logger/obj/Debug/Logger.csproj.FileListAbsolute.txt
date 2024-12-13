@@ -1,0 +1,158 @@
+D:\Training\Project\WindowsFormApp\Logger\obj\Debug\Logger.csproj.AssemblyReference.cache
+D:\Training\Project\WindowsFormApp\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\Logger.dll.config
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\Logger.dll
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\Logger.pdb
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\Azure.Core.dll
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\Azure.Identity.dll
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\Microsoft.Identity.Client.dll
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\System.Buffers.dll
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\System.ClientModel.dll
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\System.Memory.Data.dll
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\System.Memory.dll
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\System.Numerics.Vectors.dll
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\System.Security.AccessControl.dll
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\System.Security.Permissions.dll
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\System.Security.Principal.Windows.dll
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\System.Text.Encodings.Web.dll
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\System.Text.Json.dll
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\System.ValueTuple.dll
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\Azure.Core.xml
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\Azure.Identity.xml
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\Microsoft.Identity.Client.xml
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\System.Buffers.xml
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\System.ClientModel.xml
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\System.Memory.xml
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\System.Memory.Data.xml
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\System.Numerics.Vectors.xml
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\System.Security.AccessControl.xml
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\System.Security.Permissions.xml
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\System.Security.Principal.Windows.xml
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\System.Text.Encodings.Web.xml
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\System.Text.Json.xml
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\System.ValueTuple.xml
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp\Logger\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp\Logger\obj\Debug\Logger.csproj.Up2Date
+D:\Training\Project\WindowsFormApp\Logger\obj\Debug\Logger.dll
+D:\Training\Project\WindowsFormApp\Logger\obj\Debug\Logger.pdb
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\Logger.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\Logger.pdb
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\Azure.Core.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\Azure.Identity.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\Microsoft.Identity.Client.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\System.Buffers.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\System.ClientModel.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\System.Memory.Data.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\System.Memory.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\System.Numerics.Vectors.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\System.Security.AccessControl.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\System.Security.Permissions.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\System.Security.Principal.Windows.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\System.Text.Encodings.Web.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\System.Text.Json.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\System.ValueTuple.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\Azure.Core.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\Azure.Identity.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\Microsoft.Identity.Client.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\System.Buffers.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\System.ClientModel.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\System.Memory.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\System.Memory.Data.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\System.Numerics.Vectors.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\System.Security.AccessControl.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\System.Security.Permissions.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\System.Security.Principal.Windows.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\System.Text.Encodings.Web.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\System.Text.Json.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\System.ValueTuple.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\obj\Debug\Logger.csproj.AssemblyReference.cache
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\obj\Debug\Logger.csproj.Up2Date
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\obj\Debug\Logger.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\obj\Debug\Logger.pdb
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\System.Data.SqlClient.dll
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\System.Data.SqlClient.xml
+D:\Training\Project\WindowsFormApp Web API\Web_API\Logger\bin\Debug\Logger.dll.config
